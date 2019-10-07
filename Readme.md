@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Кирилл Иваненко](https://up.htmlacademy.ru/javascript/18/user/972609).
-* Наставник: [Владимир Кабыш](https://htmlacademy.ru/profile/kabyshgg).
+* Наставник: [Владимир Кабыш](https://htmlacademy.ru/profile/kabysh).
 
 ---
 
